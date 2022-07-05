@@ -5,7 +5,6 @@ Android Retrofit Connect to Server
 ## Languages
 
 - Java
-- Retrofit
 - MySQL
 - PHP
 
